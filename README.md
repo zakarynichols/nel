@@ -1,5 +1,7 @@
 # Network Error Logging
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/zakarynichols/nel.svg)](https://pkg.go.dev/github.com/zakarynichols/nel)
+
 The NEL (Network Error Logging) specification was designed to provide a way for web developers to send reports of network errors to a specified endpoint, which can be used for debugging and improving the performance of web applications.
 
 ## Installation
